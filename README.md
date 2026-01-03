@@ -28,7 +28,7 @@ This MVP supports patients, doctors, appointments, and audit logs with full auth
 ## 📦 Installation
 
 Clone the repo:
-git clone https://github.com/UdBoss-902/healthtech.git
+git clone https://github.com/UdBoss-902/heathtech.git
 cd healthtech
 
 install dependencies:
